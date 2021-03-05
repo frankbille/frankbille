@@ -6,6 +6,12 @@ I have coded since I was 10 years old when I got my first computer (Commodore 64
 
 At my current employer, [Forecast][forecast], we try to create the best [PSA][psa] tool using [AWS][aws], Java, [MySQL][mysql], [React][react], [GraphQL][graphql] and NodeJS. My role as Senior Developer gives me plenty of challenges such as defining and implementing Continious Deployment, Automated Testing, Component Libraries and more...
 
+For me, it is extremely important to ensure the best developer experience for everyone, so it is both fun to work with the code and also make it easier to produce better results in less time. I base it both on what I have experienced so far myself and also draw inspiration from others:
+
+* Ensuring easy-to-use project setups. It should be as easy as possible to get a local development environment up and running
+* Automated rule-checking over manual checklists (f.ex. [ESLint][eslint] and [SonarQube][sonarqube]) 
+* Use good practices for having a good code structure. This, to me, always means ensuring code is divided into small files and that the files are grouped together in a logical and easy to navigate fashion.
+* Regarding the code itself, I try to use well-established best practices, unless there is a specific reason not to. Here I normally fall back to [OOP][oop], [Design Patterns][designpatterns], [Clean Code][cleancode] and others.
 
 
 [flutter]: https://flutter.dev
@@ -16,19 +22,8 @@ At my current employer, [Forecast][forecast], we try to create the best [PSA][ps
 [aws]: https://aws.amazon.com/
 [mysql]: https://dev.mysql.com
 [react]: https://reactjs.org
-
-
-<!--
-**frankbille/frankbille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[eslint]: https://eslint.org/
+[sonarqube]: https://www.sonarqube.org/
+[oop]: https://en.wikipedia.org/wiki/Object-oriented_programming
+[designpatterns]: https://refactoring.guru/design-patterns
+[cleancode]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
