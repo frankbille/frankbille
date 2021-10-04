@@ -14,6 +14,7 @@ For me, it is extremely important to ensure the best developer experience for ev
 
 [flutter]: https://flutter.dev
 [nextjs]: https://nextjs.org
+[graphql]: https://graphql.org
 [eslint]: https://eslint.org/
 [sonarqube]: https://www.sonarqube.org/
 [oop]: https://en.wikipedia.org/wiki/Object-oriented_programming
