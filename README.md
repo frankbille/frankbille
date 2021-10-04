@@ -4,8 +4,6 @@ My name is Frank and I'm a developer from Denmark. "Hejsa" means Hi in Danish.
 
 I have coded since I was 10 years old when I got my first computer (Commodore 64). In the beginning I strugled with the concept of nesting and scopes. These days I'm fascinated by serverless backend architectures, [Flutter][flutter], [Next.js][nextjs] and [GraphQL][graphql].
 
-At my current employer, [Forecast][forecast], we try to create the best [PSA][psa] tool using [AWS][aws], Java, [MySQL][mysql], [React][react], [GraphQL][graphql] and NodeJS. My role as Senior Developer gives me plenty of challenges such as defining and implementing Continious Deployment, Automated Testing, Component Libraries and more...
-
 For me, it is extremely important to ensure the best developer experience for everyone, so it is both fun to work with the code and also make it easier to produce better results in less time. I base it both on what I have experienced so far myself and also draw inspiration from others:
 
 * Ensuring easy-to-use project setups. It should be as easy as possible to get a local development environment up and running
@@ -16,12 +14,6 @@ For me, it is extremely important to ensure the best developer experience for ev
 
 [flutter]: https://flutter.dev
 [nextjs]: https://nextjs.org
-[graphql]: https://graphql.org
-[forecast]: https://forecast.app
-[psa]: https://en.wikipedia.org/wiki/Professional_services_automation
-[aws]: https://aws.amazon.com/
-[mysql]: https://dev.mysql.com
-[react]: https://reactjs.org
 [eslint]: https://eslint.org/
 [sonarqube]: https://www.sonarqube.org/
 [oop]: https://en.wikipedia.org/wiki/Object-oriented_programming
